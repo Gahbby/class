@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card1{
+    background-color: white;
+    box-shadow: 2px 2px 20px;
+    width: 300px;
+    margin: 30px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bolder;
+}
+.card1 img{
+    padding: 20px;
+}
+.card1 h3, h1{
+    padding-left: 20px;
+}
+.card1 p{
+    font-weight: lighter;
+    padding-left: 20px;
+}
+.card1 button{
+    border-radius: 10px;
+    width: 85%;
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    height: 30px;
+}
+
+.furniture{
+    background-color: white;
+    box-shadow: 2px 2px 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+    text-align: left;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bolder;
+}
+.furniture img{
+    padding: 20px;
+}
+.furniture h3, h1{
+    padding-left: 20px;
+}
+.furniture p{
+    font-weight: lighter;
+    padding-left: 20px;
+}
+.furniture button{
+    border-radius: 10px;
+    width: 85%;
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    height: 30px;
+}
+
+.seat{
+    background-color: white;
+    box-shadow: 2px 2px 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+    text-align: left;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bolder;
+}
+.seat img{
+    padding: 20px;
+}
+.seat h3, h1{
+    padding-left: 20px;
+}
+.seat p{
+    font-weight: lighter;
+    padding-left: 20px;
+}
+.seat button{
+    border-radius: 10px;
+    width: 85%;
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    height: 30px;
+}
+
+
+section{
+    display: flex;
+    justify-content: center;
+}
